@@ -2,7 +2,7 @@ git is a version control system.
 
 git is a soft freeware
 
-git isa 
+learn github!
 
 
 git isfreesot
