@@ -1,6 +1,6 @@
 git is a version control system.
 
-git sis a sofrt free
+git is a soft freeware
 
 git isa 
 
